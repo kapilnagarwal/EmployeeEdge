@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bdb6f04a.chunk.css",
+    "main.js": "/static/js/main.38082392.chunk.js",
+    "main.js.map": "/static/js/main.38082392.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bf9f4589.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bf9f4589.js.map",
+    "static/js/2.f05d8a70.chunk.js": "/static/js/2.f05d8a70.chunk.js",
+    "static/js/2.f05d8a70.chunk.js.map": "/static/js/2.f05d8a70.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.48217a913da352f712ca94f3a10d2339.js": "/precache-manifest.48217a913da352f712ca94f3a10d2339.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.bdb6f04a.chunk.css.map": "/static/css/main.bdb6f04a.chunk.css.map",
+    "static/js/2.f05d8a70.chunk.js.LICENSE.txt": "/static/js/2.f05d8a70.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/style.css": "/static/media/two.2bc5e439.jpg",
+    "static/media/icici.jpg": "/static/media/icici.7fe34742.jpg",
+    "static/media/logo2.png": "/static/media/logo2.0ad84254.png",
+    "static/media/mahindra.jpg": "/static/media/mahindra.7439e705.jpg",
+    "static/media/maruti.jpg": "/static/media/maruti.b6ce9667.jpg",
+    "static/media/side.jpg": "/static/media/side.b7a03d7a.jpg",
+    "static/media/testi.jpg": "/static/media/testi.c66ed6c4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf9f4589.js",
+    "static/js/2.f05d8a70.chunk.js",
+    "static/css/main.bdb6f04a.chunk.css",
+    "static/js/main.38082392.chunk.js"
+  ]
+}

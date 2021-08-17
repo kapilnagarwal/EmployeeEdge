@@ -1,0 +1,408 @@
+body {
+    background-color: white !important;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    max-width: 100% !important;
+}
+
+
+.site-header {
+
+}
+.menu{
+    color:white !important;
+    font-weight: bold !important;
+}
+
+.top-side {
+}
+
+.services_content {
+    background-color: white;
+}
+
+.service_card{
+    background-color:  white;
+    border:none;
+}
+
+.fa-briefcase {
+    color: #9E1818;
+    font-size: 60px;
+}
+
+.fa-users{
+    color: #9E1818;
+    font-size: 60px;
+}
+
+.fa-handshake-o {
+    color: #9E1818;
+    font-size: 60px;
+}
+
+
+.button-header {
+    background-color:  #1034a6 !important;
+    color: white;
+}
+
+.site-header{
+    background-color: rgba(37,40,44,0.6);
+}
+
+.hero{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8),
+    rgba(0, 0, 0, 0.8)),url('./images/head.jpg');
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height:770px;
+}
+
+.heading {
+    color: white !important;
+    font-size: 50px;
+}
+
+.heading2{
+    color:black !important;
+    font-size: 50px;
+}
+
+.service_head{
+    color:black;
+    font-weight: bold;
+}
+
+.about-head {
+    text-align: center;
+    padding-top: 100px;
+    font-size: 40px;
+    color:white;
+    font-weight: bold;
+}
+
+.about-head h4{
+    color:white !important;
+    font-weight: bold;
+}
+
+.about-left {
+    height:100%;
+    width:100%;
+    background-color: #9E1818;
+}
+
+.about-content {
+    text-align: center;
+    padding-top: 10px;
+    padding-right: 35px;
+    background-color: #25282C;
+    height:100%;
+    width:100%;
+}
+
+.about-company {
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    padding-left: 10px;
+}
+
+.about-text {
+    color:white !important;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.info-box {
+    padding-top: 20px;
+    background-color: #1034a6;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px #1034a6;
+}
+
+@keyframes example {
+}
+
+.back-img {
+    background-image: url('./images/two.jpg');
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height:100%;
+}
+
+.org-img {
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height:100%;
+}
+
+
+.org-box {
+    padding-top: 20px;
+    background-color: rgba(0,0,0,0.7);
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.7);
+    width:320px;
+}
+
+
+
+.button-request {
+    background-color: #25282C;
+    color: white;
+}
+
+.form-content {
+    background-color: #1034a6;
+}
+
+.client_list {
+    width: 100%;
+    height:120px;
+}
+
+
+/* ------------------------------------------------------------------------------- */
+
+
+.client_button_active {
+    background-color: #25282C;
+    color:white;
+    width:80%;
+    border:none;
+    height:45px;
+    transition: 0.5s;
+}
+
+.client_button {
+    background-color: white;
+    color:black;
+    width:80%;
+    border:none;
+    height:45px;
+    transition: 0.5s;
+}
+
+.client_button:hover {
+    background-color: #25282C;
+    color:white;
+    width:80%;
+    border:none;
+    height:45px;
+    box-shadow: 0px 0px 5px #25282C;
+}
+
+
+
+
+
+.candidate_button_active {
+    background-color: #25282C;
+    color:white;
+    width:80%;
+    border:none;
+    height:45px;
+    transition: 0.5s;
+}
+
+.candidate_button {
+    background-color: white;
+    color:black;
+    width:80%;
+    border:none;
+    height:45px;
+    transition: 0.5s;
+}
+
+.candidate_button:hover {
+    background-color:#25282C;
+    color:white;
+    width:80%;
+    border:none;
+    height:45px;
+    box-shadow: 0px 0px 5px #25282C;
+}
+
+
+/* ------------------------------------------------------------------------------- */
+
+.review card {
+    height:800px;
+    border:none;
+}
+
+.card{
+    border:none;
+}
+
+.review card:hover {
+    box-shadow: 0px 0px 5px white;
+}
+
+.testi_image {
+    width: 250px;
+}
+
+.text_area {
+    background-color: transparent;
+}
+
+.text_area h4{
+    color:white;
+}
+
+.client-area {
+    color:white;
+}
+
+
+
+.job_name {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.salary_head{
+    font-weight: bold;
+    font-size:15px;
+}
+
+.salary_value {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+
+
+.read_more {
+    background-color:#9E1818;
+    color:white;
+    width:100%;
+    border:none;
+    height:40px;
+    transition: 0.5s;
+    border-radius: 100px;
+    font-weight: bold;
+}
+
+.apply_button {
+    background-color: #9E1818;
+    color:white;
+    width:100%;
+    border:none;
+    height:40px;
+    transition: 0.5s;
+    border-radius: 100px;
+    font-weight: bold;
+}
+
+#job_vacan {
+    background-color: #F5F5F5;
+    height: 100vh;
+}
+
+
+#job_card {
+    transition: 0.1s;
+    width:100%;
+}
+
+#job_card:hover {
+    background-color: #9E1818;
+    color:white !important;
+}
+
+#job_card .job_name:hover{
+    color:white !important;
+}
+
+
+
+.client_area {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8),
+    rgba(0, 0, 0, 0.8)),url('./images/two.jpg');
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height:100%;
+
+}
+
+
+.site-footer {
+    background-color: #25282C;
+}
+
+.footer_card {
+    height:100%;
+}
+
+.contact_us {
+    padding-left: 7%;
+    padding-top: 10px;
+    margin-bottom: 20px;
+}
+
+.contact_us h2 {
+    color:black;
+}
+
+.contact_address {
+    font-size: 90%;
+    color:black;
+}
+
+.review {
+    background-color: #9E1818;
+}
+
+.forms_section {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8),
+    rgba(0, 0, 0, 0.8)),url('./images/forms.jpg');
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height:100%;
+}
+
+.form-bg {
+    background-color: white;
+    width:1000px;
+    height:60vh;
+}
+
+.request {
+    color: #9E1818;
+    font-size: 40px;
+}
+
+.request-form {
+    color:black;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.submit_button {
+    background-color: #9E1818;
+    color:white;
+    font-weight: bold;
+    width:200px;
+    height:40px;
+    border:none;
+}
+
+.template_header {
+    font-size: 50px !important;
+}

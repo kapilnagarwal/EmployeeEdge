@@ -1,0 +1,240 @@
+body {
+    background-color: white !important;
+    font-family: 'Poppins', sans-serif;
+}
+
+.site-header {
+
+}
+.menu{
+    color:white !important;
+    font-weight: bold !important;
+}
+
+.top-side {
+}
+
+.button-header {
+    background-color:  #1034a6 !important;
+    color: white;
+}
+
+.site-header{
+    background-color: rgba(37,40,44,0.6);
+}
+
+.hero{
+    background-image: url('./images/about.jpg');
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height:770px;
+}
+
+.heading {
+    color: black !important;
+    font-size: 50px;
+}
+
+.about-head {
+    text-align: center;
+    padding-top: 60px;
+    font-size: 40px;
+}
+
+.about-left {
+    height:300px;
+    width:1000px;
+    background-color: #1034a6;
+}
+
+.about-content {
+    text-align: left;
+    padding-top: 10px;
+    background-color: #25282C;
+    height:300px;
+    width:1000px;
+}
+
+.about-company {
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    padding-left: 10px;
+}
+
+.about-text {
+    color:white !important;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.info-box {
+    padding-top: 20px;
+    background-color: #1034a6;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px #1034a6;
+}
+
+@keyframes example {
+}
+
+.back-img {
+    background-image: url('./images/two.jpg');
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height:100%;
+}
+
+.org-img {
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height:100%;
+}
+
+
+.org-box {
+    padding-top: 20px;
+    background-color: rgba(0,0,0,0.7);
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.7);
+    width:320px;
+}
+
+
+.card {
+    background-image: url("./images/three.jpg");
+    border:none;
+    /*background-color: #25282C;*/
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height:100%;
+    transition: 0.5s;
+}
+
+.card:hover {
+    /*background-image: url("./images/two.jpg");*/
+    border:none;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height:100%;
+}
+
+.card-body :hover{
+    transition: 0.5s;
+}
+
+.card-body:hover {
+    background-color: rgba(0,0,0,0.7);
+}
+
+.card-body p{
+    padding-top: 25px;
+    font-size: 25px;
+    color:white;
+    font-weight: bold;
+}
+
+
+.button-request {
+    background-color: #25282C;
+    color: white;
+}
+
+.form-content {
+    background-color: #1034a6;
+}
+
+.client_list {
+    width: 100%;
+    height:200px;
+}
+
+
+/* ------------------------------------------------------------------------------- */
+
+
+.client_button_active {
+    background-color: #1034a6;
+    color:white;
+    width:80%;
+    border:none;
+    height:45px;
+    transition: 0.5s;
+}
+
+.client_button {
+    background-color: #25282C;
+    color:white;
+    width:80%;
+    border:none;
+    height:45px;
+    transition: 0.5s;
+}
+
+.client_button:hover {
+    background-color: #1034a6;
+    color:white;
+    width:80%;
+    border:none;
+    height:45px;
+    box-shadow: 0px 0px 5px #1034a6;
+}
+
+
+
+
+
+.candidate_button_active {
+    background-color: #1034a6;
+    color:white;
+    width:80%;
+    border:none;
+    height:45px;
+    transition: 0.5s;
+}
+
+.candidate_button {
+    background-color: #25282C;
+    color:white;
+    width:80%;
+    border:none;
+    height:45px;
+    transition: 0.5s;
+}
+
+.candidate_button:hover {
+    background-color: #1034a6;
+    color:white;
+    width:80%;
+    border:none;
+    height:45px;
+    box-shadow: 0px 0px 5px #1034a6;
+}
+
+
+/* ------------------------------------------------------------------------------- */
+
+
+.testi_image {
+    width: 300px;
+}
+
+.text_area {
+    background-color: #1034a6;
+}
+
+.client-area {
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
